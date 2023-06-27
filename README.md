@@ -3,7 +3,7 @@
 
 <br>
 
-<div align="center" width=70%>Joven programador Full Stack siempre buscando cosas para aprender, interesado en este mundo desde los 14 e iniciando desde los 17, muy interesado en tecnologias como Rust, Svelte y Astro</div>
+<div align="center" width=40%>Joven programador Full Stack siempre buscando cosas para aprender, interesado en este mundo desde los 14 e iniciando desde los 17, muy interesado en tecnologias como Rust, Svelte y Astro</div>
 
 <br>
 
