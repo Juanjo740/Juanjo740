@@ -3,7 +3,7 @@
 
 <br>
 
-<div align="center" width="40%">Joven programador Full Stack siempre buscando cosas para aprender, interesado en este mundo desde los 14 e iniciando desde los 17, muy interesado en tecnologias como Rust, Svelte y Astro</div>
+<div align="center">Joven programador Full Stack siempre buscando cosas para aprender, interesado en este mundo desde los 14 e iniciando desde los 17, muy interesado en tecnologias como Rust, Svelte y Astro. Me encanta la tecnología, un poco la física y soy un gran fanático de Star Wars. En algún momento cercano de mi vida me gustaría empezar en el mundo de la ciberseguridad. Me considero una persona planificadora, curiosa y responsable. Tengo metas que muchos consideran gigantes y sé que las cumpliré.</div>
 
 <br>
 
